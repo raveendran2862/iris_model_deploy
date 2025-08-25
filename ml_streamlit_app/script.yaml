@@ -1,0 +1,5 @@
+ml_streamlit_app/
+│── app1.py                 # Your Streamlit app
+│── iris_model.pkl         # Your saved ML model
+│── requirements.txt       # Dependencies
+│── README.md              # (optional) Project info
